@@ -1,5 +1,5 @@
-<<<<<<< HEAD
-# AMC Bank - Day 9 FINAL Integrated Project
+<<<<<<< head
+# AMC Bank 
 
 This is the course-ending project. It combines the backend built through Days 6-8 with React/Vite, Spring Security, JWT, role-based access and customer self-service.
 
