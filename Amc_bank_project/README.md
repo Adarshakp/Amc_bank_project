@@ -76,6 +76,6 @@ When an admin creates a customer, the customer's email is used as login username
 
 ## 8. Security teaching note
 The included JWT secret fallback and demo credentials are for classroom use. Production systems must use secure secrets, stronger credential/bootstrap practices, HTTPS, appropriate token lifecycle controls, auditing and database migration tooling.
-===========
+==============
 # Amc_bank_project
 >>>>>>> cc4266ad11a5fd1abb7f4f82c0d97c8cfcc67e70
