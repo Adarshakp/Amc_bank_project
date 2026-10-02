@@ -29,7 +29,7 @@ Start PostgreSQL and run:
 CREATE DATABASE amc_bank_customer_login;
 ```
 
-Default classroom configuration expects user `postgres`, password `1234` in my computer, port `5432`. Change `backend/src/main/resources/application.properties` based on settings in your computer
+Default classroom configuration expects user `postgres`, password `passward` in my computer, port `5432`. Change `backend/src/main/resources/application.properties` based on settings in your computer
 
 ## 2. Backend in Eclipse
 1. File > Import > Maven > Existing Maven Projects.
