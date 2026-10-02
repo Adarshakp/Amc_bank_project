@@ -1,7 +1,7 @@
 <<<<<<< head
 # AMC Bank 
 
--ending project. It combines the backend built through Days 6-8 with React/Vite, Spring Security, JWT, role-based access and customer self-service.
+It combines the backend built through Days 6-8 with React/Vite, Spring Security, JWT, role-based access and customer self-service.
 
 ## Stack
 - Java 17, Spring Boot 3.3.4
