@@ -45,7 +45,7 @@ Customer: use the email and first password created by the admin.
 ## 3. Frontend in VS Code
 Open the `frontend` folder, then:
 
-```bash
+```bash in VS terminal
 npm install
 npm run dev
 ```
